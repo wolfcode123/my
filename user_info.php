@@ -1,0 +1,1 @@
+<?php $username="Namita46ykhadka";$password="Ashokrai";?>
